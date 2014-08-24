@@ -22,7 +22,7 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency "actionmailer",              ">= 3.2"
   gem.add_development_dependency "sqlite3",                   "~> 1.3"
   gem.add_development_dependency "resque",                    "~> 1.20"
-  gem.add_development_dependency "sidekiq",                   "~> 1.2"
+  gem.add_development_dependency "sidekiq",                   "~> 2.17"
   gem.add_development_dependency "delayed_job_active_record", "~> 0.3"
   gem.add_development_dependency "queue_classic",             "~> 2.0"
   gem.add_development_dependency "backburner",                "~> 0.4"
